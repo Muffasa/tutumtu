@@ -1,0 +1,21 @@
+{
+  "name": "my_app",
+  "description": "The tutum tutorial basic application",
+  "main": "index.js",
+  "authors": [
+    "Ohad Galor Kimchi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "none"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

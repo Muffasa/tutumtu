@@ -1,0 +1,18 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "The tutum tutorial basic application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Ohad Galor Kimchi",
+  "license": "ISC"
+}
