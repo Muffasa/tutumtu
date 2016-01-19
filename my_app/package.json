@@ -14,5 +14,11 @@
     "none"
   ],
   "author": "Ohad Galor Kimchi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.0",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
 }
