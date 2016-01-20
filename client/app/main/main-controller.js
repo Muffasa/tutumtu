@@ -4,7 +4,9 @@ angular.module('app')
     $scope.list1 = [
       {label: 'one'},
       {label: 'two'},
-      {label: 'three'}
+      {label: 'three'},
+      {label: 'git push to master->docker image rebuild->tutum-redeply-webhook'}
+      
     ];
  
     $scope.list2 = [
