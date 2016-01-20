@@ -1,0 +1,5 @@
+#npm dependencies
+my_app/node_modules
+
+#bower dependencies
+my_app/client/bower_componentst
